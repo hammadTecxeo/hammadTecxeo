@@ -1,4 +1,7 @@
 <h1 align="center">👋 Hi, I'm Hammad</h1>
+<p align="center">
+  <img src="https://res.cloudinary.com/dmiamov7p/image/upload/v1787138961/github-cover_j8syjo.png" alt="Demo cover" />
+</p>
 
 <p align="center">
   🚀 Passionate <strong>Full Stack Developer</strong> | 💻 Crafting Scalable Web and Mobile Applications | 🎯 Front-End & Back-End Expert
